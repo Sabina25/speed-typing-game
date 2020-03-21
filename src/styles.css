@@ -24,12 +24,11 @@ button {
 }
 
 h1 {
-    font-size: 26px;
+    font-size: 20px;
     text-align:center;
 }
 
 textarea {
-    font-size: 26px;
     font-family: 'Press Start 2P', cursive;
     border: 3px solid black;
     width: 90%;
@@ -38,8 +37,4 @@ textarea {
     height: 200px;
     background: #00b800;
     padding: 10px;
-}
-
-textarea:disabled {
-    background-color: #a5a2a2;
 }
